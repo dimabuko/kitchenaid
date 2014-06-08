@@ -111,9 +111,14 @@ h4{
   margin: 0 0 24px 0;
 }
 
-.hero {
+.hero, .calltoaction  {
   text-align: center;
   padding: 35px 0;
+}
+
+.calltoaction {
+  margin: 50px 0 0 0;
+  clear: both;
 }
 
 .heroimg {
